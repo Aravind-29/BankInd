@@ -1,9 +1,3 @@
-/*
- * Use this CSS to learn some intersting techniques,
- * in case you're wondering how I built the UI.
- * Have fun! 😁
- */
-
 * {
   margin: 0;
   padding: 0;
@@ -23,10 +17,10 @@ body {
   padding: 2rem;
 }
 header {
-  padding: 1rem 3.2rem; /* Adjusted padding */ /* Adjusted margin */
+  padding: 1rem 3.2rem; 
   display: flex;
   justify-content: space-between; 
-  display: none;/* Adjusted justify-content */
+  display: none;
 }
 .flex-center {
   display: flex;
@@ -51,7 +45,7 @@ header {
 
 .logo {
   height: 3.5rem; 
-  display: flex;/* Adjusted height */
+  display: flex;
 }
 
 .user-icon {
