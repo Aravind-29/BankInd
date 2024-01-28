@@ -1,9 +1,29 @@
-# BankInd
-Bankist is a online banking app. Its main features are logging in with a username and password, viewing and sorting movements, transferring money to another account, requesting a bank loan, and deleting their account.
-🧾 Demo accounts
-Log in with one of these accounts to take a look at the app's features.
+BankInd
+BankInd is a fictional and minimalistic online banking application.
 
-User	PIN
-ac -  1111
-jj - 2222
-as - 3333
+
+What is BankInd?
+BankInd is an Indian online bank. It has the option to log in to the account and use different functionalities, almost like in an actual bank!
+
+Functionalities
+Login
+Transfer a value to another account
+Get loans
+Close (delete) account
+Login Details
+This is the template login details to use the bank functionality. The project does not include any backend and does not have an actual registration functionality. Make sure to use usernames are lowercase!
+
+
+Account One
+Login: ac
+Password: 1111
+
+Account Two
+Login: jj
+Password: 2222
+
+
+Technologies Used
+HTML
+CSS
+JavaScript
